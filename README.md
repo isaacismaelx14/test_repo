@@ -4,5 +4,3 @@ other
        
     []: # Language: markdown
     []: # Path: README.md
-
-testing case
