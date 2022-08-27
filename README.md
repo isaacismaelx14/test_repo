@@ -4,6 +4,3 @@ other
        
     []: # Language: markdown
     []: # Path: README.md
-
-Changes!!
-Other changes.
