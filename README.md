@@ -6,3 +6,5 @@ other
     []: # Path: README.md
 
 ----
+
+Lorem ipsum
