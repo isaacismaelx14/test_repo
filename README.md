@@ -6,3 +6,4 @@ other
     []: # Path: README.md
 
 ----
+v1.0.0
