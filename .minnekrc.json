@@ -1,7 +1,7 @@
 {
 	"cominnek": {
 	  "git": {
-		"flow": "git"
+		"flow": "github"
 	  }
 	}
   }
