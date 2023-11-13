@@ -1,5 +1,12 @@
 
 
+# [0.4.0](https://github.com/isaacismaelx14/test_repo/compare/0.3.2...0.4.0) (2023-11-13)
+
+
+### Features
+
+* test-3 add a simple feat ([c896d7d](https://github.com/isaacismaelx14/test_repo/commit/c896d7d10105bd43a18d2511050689a26b704014))
+
 ## [0.3.2](https://github.com/isaacismaelx14/test_repo/compare/0.3.1...0.3.2) (2023-11-13)
 
 
