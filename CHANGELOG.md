@@ -1,5 +1,17 @@
 
 
+# [1.0.0](https://github.com/isaacismaelx14/test_repo/compare/0.4.0...1.0.0) (2023-11-13)
+
+
+### Features
+
+* test-4 add a simple superupdate ([43e0ee8](https://github.com/isaacismaelx14/test_repo/commit/43e0ee8a03d7fca59342590210c74320bdf7ba4f))
+
+
+### BREAKING CHANGES
+
+* this is a example
+
 # [0.4.0](https://github.com/isaacismaelx14/test_repo/compare/0.3.2...0.4.0) (2023-11-13)
 
 
