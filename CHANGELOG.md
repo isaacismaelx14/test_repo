@@ -1,5 +1,12 @@
 
 
+## [0.3.2](https://github.com/isaacismaelx14/test_repo/compare/0.3.1...0.3.2) (2023-11-13)
+
+
+### Bug Fixes
+
+* test-2 add a simple fix ([862179b](https://github.com/isaacismaelx14/test_repo/commit/862179bb701db7dffdf3aa5c825365e0c1e6fd3b))
+
 ## [0.3.1](https://github.com/isaacismaelx14/test_repo/compare/0.3.0...0.3.1) (2023-11-13)
 
 ## [0.3.0](https://github.com/isaacismaelx14/test_repo/compare/0.2.0...0.3.0) (2023-08-06)
