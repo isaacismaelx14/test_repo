@@ -8,3 +8,5 @@ other
 ----
 text
 1
+
+This is a simple bugfix
