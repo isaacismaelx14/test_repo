@@ -12,3 +12,5 @@ text
 This is a simple bugfix
 This is a simple feat
 This is a simple breaking change
+
+Test
