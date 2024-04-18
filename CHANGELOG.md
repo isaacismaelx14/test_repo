@@ -1,5 +1,7 @@
 
 
+## [1.0.1](https://github.com/isaacismaelx14/test_repo/compare/1.0.0...1.0.1) (2024-04-18)
+
 # [1.0.0](https://github.com/isaacismaelx14/test_repo/compare/0.4.0...1.0.0) (2023-11-13)
 
 
